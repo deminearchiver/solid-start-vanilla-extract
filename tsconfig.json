@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "moduleResolution": "Bundler",
+
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "noEmit": true,
+    "isolatedModules": true,
+
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    
+    "strict": true,
+    "noImplicitOverride": true,
+
+    "types": ["vinxi/types/client"],
+
+    "paths": {
+      "~/*": ["./src/*"]
+    },
+  },
+}
