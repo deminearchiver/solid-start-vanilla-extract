@@ -58,8 +58,10 @@ Awaiting
 
 ### Deploy
 
-1. Deploy `yarn vercel deploy --prebuilt`
-     - You will need a Vercel account
+> [!NOTE]
+> You need a vercel account to deploy
+
+Run `yarn vercel deploy --prebuilt`
 
 
 ### Error
