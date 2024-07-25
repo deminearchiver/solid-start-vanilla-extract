@@ -34,7 +34,9 @@ An up-to-date list of conversations regarding this issue.
 
 #### On Discord
 
-- [**SolidJS**](https://discord.gg/solidjs "discord.gg/solidjs") > [**Cannot build for Vercel**](https://discord.com/channels/722131463138705510/1265906604096753706 "#support > Cannot build for Vercel")
+- [**SolidJS**](https://discord.gg/solidjs "discord.gg/solidjs") > [**💬 Cannot build for Vercel**](https://discord.com/channels/722131463138705510/1265906604096753706 "#support > Cannot build for Vercel")
+
+- [**Vanilla Extract**](https://discord.gg/6nCfPwwz6w) > [**#general > 💬**](https://discord.com/channels/885877446098964512/885877446891667529/1265938350402048011)
 
 #### On GitHub
 
