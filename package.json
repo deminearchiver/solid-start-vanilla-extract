@@ -2,7 +2,7 @@
   "private": true,
   "name": "solid-start-vanilla-extract",
   "type": "module",
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@4.4.1",
   "scripts": {
     "dev": "vinxi dev",
     "build": "vinxi build",
@@ -11,17 +11,17 @@
   },
   "dependencies": {
     "@solidjs/meta": "^0.29.4",
-    "@solidjs/router": "^0.14.1",
+    "@solidjs/router": "^0.14.3",
     "@solidjs/start": "^1.0.6",
-    "solid-js": "^1.8.18",
-    "vinxi": "^0.4.1"
+    "solid-js": "^1.8.22",
+    "vinxi": "^0.4.2"
   },
   "engines": {
     "node": "20.x"
   },
   "devDependencies": {
-    "@vanilla-extract/vite-plugin": "^4.0.13",
-    "lightningcss": "^1.25.1",
-    "vercel": "^35.2.0"
+    "@vanilla-extract/vite-plugin": "^4.0.15",
+    "lightningcss": "^1.26.0",
+    "vercel": "^37.2.1"
   }
 }
