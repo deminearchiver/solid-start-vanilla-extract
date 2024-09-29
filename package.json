@@ -11,17 +11,20 @@
   },
   "dependencies": {
     "@solidjs/meta": "^0.29.4",
-    "@solidjs/router": "^0.14.3",
-    "@solidjs/start": "^1.0.6",
-    "solid-js": "^1.8.22",
-    "vinxi": "^0.4.2"
+    "@solidjs/router": "^0.14.7",
+    "@solidjs/start": "^1.0.8",
+    "@vanilla-extract/css": "^1.15.5",
+    "@vanilla-extract/dynamic": "^2.1.2",
+    "@vanilla-extract/recipes": "^0.5.5",
+    "solid-js": "^1.9.1",
+    "vinxi": "^0.4.3"
   },
   "engines": {
     "node": "20.x"
   },
   "devDependencies": {
     "@vanilla-extract/vite-plugin": "^4.0.15",
-    "lightningcss": "^1.26.0",
-    "vercel": "^37.2.1"
+    "lightningcss": "^1.27.0",
+    "vercel": "^37.6.0"
   }
 }

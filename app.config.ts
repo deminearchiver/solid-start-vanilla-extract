@@ -6,7 +6,9 @@ export default defineConfig({
     preset: "vercel",
   },
   vite: {
-    plugins: [vanillaExtract()],
+    plugins: [
+      vanillaExtract()
+    ],
     css: {
       transformer: "lightningcss",
     },
