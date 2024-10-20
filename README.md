@@ -40,7 +40,7 @@ An up-to-date list of conversations regarding this issue.
 
 #### On GitHub
 
-Awaiting
+- [**solidjs/solid-start**]() > [**#1642**](https://github.com/solidjs/solid-start/issues/1642)
 
 ## How to reproduce
 
@@ -68,7 +68,7 @@ Run `yarn vercel deploy --prebuilt`
 
 ### Error
 
-If you open [**Runtime logs**](https://vercel.com/docs/observability/runtime-logs) of your deployment, you will see the following error:
+If you open [**Runtime logs**](https://vercel.com/docs/observability/runtime-logs) of your deployment, you will see an error similiar to the following (but with different line numbers probably):
 
 ```
 Unhandled Rejection: TypeError: Cannot read properties of undefined (reading 'file')
